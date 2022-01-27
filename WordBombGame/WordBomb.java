@@ -68,7 +68,7 @@ public class WordBomb {
         
         try{
 
-            int n = (int) (Math.random()*194000 + 3); 
+            int n = (int) (Math.random()*194000 + 1); 
             String line = Files.readAllLines(Paths.get("WordBank333.txt")).get(n);
             return line.substring(0, letters).toLowerCase();
 

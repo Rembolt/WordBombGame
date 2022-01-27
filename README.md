@@ -7,4 +7,6 @@ A Game that will help you:
 type faster, increase the amount of words you know, and remember spelling.
 Your objective is to type a word that contains a given letter or syllable
 But you must type before the timer in the bomb reachs zero!
-To play the game just download all files in the same folder and debug the "WordBomb.java" file
+To play the game just download the extract all files in the same folder. 
+First, open your IDE and only then open the folder inside your IDE.(It won't work if you open the files outside IDE)
+Then, debug the "WordBomb.java" file and enjoy!
